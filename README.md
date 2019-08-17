@@ -25,5 +25,4 @@ https://www.geeksforgeeks.org/k-nearest-neighbours/
 
 https://www.researchgate.net/figure/The-flowchart-of-K-nearest-neighbor-classifier-procedure_fig2_237080861
 
-
-> https://www.kaggle.com/zalando-research/fashionmnist
+https://www.kaggle.com/zalando-research/fashionmnist
