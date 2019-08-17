@@ -14,10 +14,10 @@ Here Red color Line refers to distance calculated through Manhattan Method.
 Here Green Color Line refers to distance calculated through Chebyshev Method. 
 
 ## Conclusion 
-So for all methods we get maximum accuracy for K=1.
-Max Accuracy Using Euclidean Distance is 0.8491666666666666. 
-Max Accuracy Using Manhattan Distance is 0.8505833333333334.
-Max Accuracy Using Chebyshev Distance is 0.6374166666666666.
+So for all methods we get maximum accuracy for K=1.<br>
+Max Accuracy Using Euclidean Distance is 0.8491666666666666.<br>
+Max Accuracy Using Manhattan Distance is 0.8505833333333334.<br>
+Max Accuracy Using Chebyshev Distance is 0.6374166666666666.<br>
 Best Model: Metric = Manhattan and K=1. 
 
 ## Sources 
